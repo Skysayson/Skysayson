@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sky</h1>
 <h3 align="center">Wanna be Full Stack Dev</h3>
 
-- 🌱 I’m currently learning **Javascript, C, SQL**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, C, SQL**
 
 - 📫 How to reach me **jonaz.juan@hotmail.com**
 
