@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sky but not <del>really <3</del></h1>
+<h1 align="center">Hi , I'm Sky but not <del>really</del><3</h1>
 <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
 
 - 🌱 I’m currently learning **JAVASCRIPT, HTML, CSS, C, SQL**
