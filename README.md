@@ -2,21 +2,16 @@
   <h1 align="center">Hi , I'm Sky but not <del>really</del><3</h1>
   <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
   
-<div align="center">
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <h1>💫 About Me:</h1>
-      <ul>
-        <li>🔭 Currently working on: Cerebrum Research (website)</li>
-        <li>🌱 I’m currently learning: Full Stack development</li>
-        <li>⚡ Fun fact: I make music ❤️</li>
-      </ul>
-    </div>
-    <div style="flex: 1;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo">
-    </div>
-  </div>
-</div>
+<p align="center">
+  <h1>💫 About Me:</h1>
+  <ul>
+    <li>🔭 Currently working on: Cerebrum Research (website)</li>
+    <li>🌱 I’m currently learning: Full Stack development</li>
+    <li>⚡ Fun fact: I make music ❤️</li>
+  </ul>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo" align="right">
+</p>
+
 
 
 
