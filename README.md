@@ -4,20 +4,23 @@
   
 
 <div align="center">
-  <h1>💫 About Me:</h1>
-  <div style="display: flex; justify-content: center; align-items: top;">
-    <div style="flex: 1; padding-right: 20px;">
-      <p align="left">
-        🔭 Currently working on: Cerebrum Research (website) <br>
-        🌱 I’m currently learning: Full Stack development <br>
-        ⚡ Fun fact: I make music ❤️
-      </p>
-    </div>
-    <div style="flex: 1;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo" style="width: 100%; border: none;">
-    </div>
-  </div>
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td style="padding: 0; width: 50%; vertical-align: top;">
+        <h1>💫 About Me:</h1>
+        <p align="left">
+          🔭 Currently working on: Cerebrum Research (website) <br>
+          🌱 I’m currently learning: Full Stack development <br>
+          ⚡ Fun fact: I make music ❤️
+        </p>
+      </td>
+      <td style="padding: 0; width: 50%; vertical-align: top;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo" style="width: 100%; border: none;">
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
