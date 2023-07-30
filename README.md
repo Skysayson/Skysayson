@@ -2,9 +2,8 @@
   <h1 align="center">Hi , I'm Sky but not <del>really</del><3</h1>
   <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
   
- <h1 align = "center"> # 💫 About Me:
+  # 💫 About Me:
   🔭 Currently working on: Cerebrum Research (website)<br>🌱 I’m currently learning: Full Stack development<br>⚡ Fun fact: I make music <3
-  </h1>
   
   ## 🌐 Socials:
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jonaz Juan Sayson) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Skysayson) 
