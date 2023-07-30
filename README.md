@@ -2,6 +2,7 @@
   <h1 align="center">Hi , I'm Sky but not <del>really</del><3</h1>
   <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
   
+
 <div align="center">
   <style>
     table {
@@ -28,8 +29,6 @@
     </tr>
   </table>
 </div>
-
-
 
 
 
