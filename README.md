@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi , I'm Sky but not <del>really</del><3</h1>
 <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
 
@@ -24,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Skysayson&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</center>
