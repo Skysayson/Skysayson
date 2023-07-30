@@ -3,6 +3,15 @@
   <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
   
 <div align="center">
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    table td {
+      padding: 0;
+    }
+  </style>
+
   <h1>💫 About Me:</h1>
   <table>
     <tr>
