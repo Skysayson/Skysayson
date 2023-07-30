@@ -2,11 +2,16 @@
   <h1 align="center">Hi , I'm Sky but not <del>really</del><3</h1>
   <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
   
-| 💫 About Me:                                        | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo" width="200">         |
-|----------------------------------------------------|----------------------------------------------------|
-| 🔭 Currently working on: Cerebrum Research (website) |                                                    |
-| 🌱 I’m currently learning: Full Stack development  |                                                    |
-| ⚡ Fun fact: I make music ❤️                       |                                                    |
+<div align="center">
+  <h1>💫 About Me:</h1>
+  <p align="left" style="display: inline-block; width: 50%;">
+    🔭 Currently working on: Cerebrum Research (website) <br>
+    🌱 I’m currently learning: Full Stack development <br>
+    ⚡ Fun fact: I make music ❤️
+  </p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo" style="width: 40%; margin-left: 10px;">
+</div>
+
 
 
 
