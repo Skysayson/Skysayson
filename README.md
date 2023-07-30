@@ -4,31 +4,23 @@
   
 
 <div align="center">
-  <style>
-    table {
-      border-collapse: collapse;
-    }
-    table td {
-      padding: 0;
-    }
-  </style>
-
-  <h1>💫 About Me:</h1>
-  <table>
+  <table style="border: none; width: 100%;">
     <tr>
-      <td width="50%" valign="top">
+      <td style="padding: 0; width: 50%; vertical-align: top;">
+        <h1>💫 About Me:</h1>
         <p align="left">
           🔭 Currently working on: Cerebrum Research (website) <br>
           🌱 I’m currently learning: Full Stack development <br>
           ⚡ Fun fact: I make music ❤️
         </p>
       </td>
-      <td width="50%" valign="top">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo" style="width: 70%; border: none;">
+      <td style="padding: 0; width: 50%; vertical-align: top;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo" style="width: 100%; border: none;">
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
