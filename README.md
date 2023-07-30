@@ -1,7 +1,7 @@
-
-  <h1 align="center">Hi , I'm Sky but not <del>really</del><3</h1>
-  <h3 align="center"> <u> Wanna be </u> Full Stack Dev</h3>
-  
+<div align="center">
+  <h1 align="center">Hi, I'm Sky but not <del>really</del> ❤️</h1>
+  <h3 align="center"><u>Wanna be</u> Full Stack Dev</h3>
+</div>
 
 <div align="center">
   <table style="border: none; width: 100%;">
@@ -21,20 +21,12 @@
   </table>
 </div>
 
-
-
-
-
-
 ## 🌐 Socials:
- <div align="center">
+<div align="center">
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jonazjuan.sayson)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Skysayson)
-
 </div>
-
-
 
 # 💻 Tech Stack:
 <div align="center">
@@ -49,7 +41,6 @@
 </div>
 
 # 📊 GitHub Stats:
-
 <div align="center">
   <a href="https://github.com/Skysayson">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -57,18 +48,7 @@
   <a href="https://github.com/Skysayson">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skysayson&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Skysayson">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </a>
 </div>
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
