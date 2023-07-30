@@ -46,9 +46,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Skysayson">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skysayson&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </a>
   <a href="https://github.com/Skysayson">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skysayson&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
 </div>
