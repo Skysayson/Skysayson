@@ -23,14 +23,12 @@
 
 ## 🌐 Socials:
 <div align="center">
-
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jonazjuan.sayson)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Skysayson)
 </div>
 
 # 💻 Tech Stack:
 <div align="center">
-
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -41,14 +39,15 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: top;">
   <a href="https://github.com/Skysayson">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="flex: 1;">
   </a>
   <a href="https://github.com/Skysayson">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skysayson&theme=dark&hide_border=false" alt="GitHub Streak" style="flex: 1;">
   </a>
   <a href="https://github.com/Skysayson">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skysayson&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skysayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="flex: 1;">
   </a>
 </div>
+
