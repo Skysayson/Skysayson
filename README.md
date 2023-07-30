@@ -7,7 +7,7 @@
 </p>
  
    <p align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo">
+      <img background-color: white; src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwdGd3c3RjeTlsYm1rcTRqY3A5enNtcDVxb2hvZWtqbHFodXF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mPm8hzOh3GgO2oMfT/giphy.gif" alt="hippo">
   </p>
 
 ## 🌐 Socials:
