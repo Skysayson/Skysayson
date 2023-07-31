@@ -10,7 +10,7 @@
         <h1>💫 About Me:</h1>
         <p align="left">
           🔭 Currently working on: Cerebrum Research (website) <br>
-          🌱 I’m currently learning: Full Stack development <br>
+          🌱 I’m currently learning: Full Stack development, JS, React. <br>
           ⚡ Fun fact: I make music ❤️
         </p>
       </td>
