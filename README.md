@@ -9,7 +9,7 @@
       <td style="padding: 0; width: 50%; vertical-align: top;">
         <h1>💫 About Me:</h1>
         <p align="left">
-          🔭 Currently working on: Cerebrum Research (website) <br>
+          🔭 Currently working on: BookFlow <br>
           🌱 I’m currently learning: Full Stack development, JS, React. <br>
           ⚡ Fun fact: I make music ❤️
         </p>
