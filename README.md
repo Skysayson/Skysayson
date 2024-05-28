@@ -10,7 +10,7 @@
         <h1>💫 About Me:</h1>
         <p align="left">
           🔭 Currently working on: dcism.h <br>
-          🌱 I’m currently learning: Full Stack development, JS, React, BlockChain. <br>
+          🌱 I’m currently learning: Full Stack development, JS, React, BlockChain, NextJS. <br>
           ⚡ Fun fact: I make music ❤️
         </p>
       </td>
