@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Sky but not <del>really</del> ❤️</h1>
-  <h3 align="center"><u>Wanna be</u> Full Stack Dev</h3>
+  <h3 align="center"><u>Wanna be</u> dev </h3>
 </div>
 
 <div align="center">
@@ -9,8 +9,8 @@
       <td style="padding: 0; width: 50%; vertical-align: top;">
         <h1>💫 About Me:</h1>
         <p align="left">
-          🔭 Currently working on: dcism.h <br>
-          🌱 I’m currently learning: Full Stack development, JS, React, BlockChain, NextJS. <br>
+          🔭 Currently working on: life <br>
+          🌱 I’m currently learning: Deep Learning. <br>
           ⚡ Fun fact: I make music ❤️
         </p>
       </td>
