@@ -10,7 +10,7 @@
         <h1>💫 About Me:</h1>
         <p align="left">
           🔭 Currently working on: life <br>
-          🌱 I’m currently learning: Deep Learning. <br>
+          🌱 I’m currently learning: Full Stack and ML. <br>
           ⚡ Fun fact: I make music ❤️
         </p>
       </td>
