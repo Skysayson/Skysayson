@@ -9,8 +9,8 @@
       <td style="padding: 0; width: 50%; vertical-align: top;">
         <h1>💫 About Me:</h1>
         <p align="left">
-          🔭 Currently working on: life <br>
-          🌱 I’m currently learning: Full Stack and ML. <br>
+          🔭 Currently working on: Nudge <br>
+          🌱 I’m currently learning: Full Stack Development and Machine Learning. <br>
           ⚡ Fun fact: I make music ❤️
         </p>
       </td>
