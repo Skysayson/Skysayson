@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Sky but not <del>really</del> ❤️</h1>
-  <h3 align="center"><u>FullStack Dev</u> dev </h3>
+  <h3 align="center"><u>FullStack Dev / Software Engineer</u></h3>
 </div>
 
 <div align="center">
@@ -9,8 +9,8 @@
       <td style="padding: 0; width: 50%; vertical-align: top;">
         <h1>💫 About Me:</h1>
         <p align="left">
-          🔭 Currently working on: Myself c: <br>
-          🌱 I’m currently learning: Full Stack Development and Machine Learning. <br>
+          🔭 Currently working on: HEAT<i>inc.</i> <br>
+          🌱 I’m currently learning: Cloud Infrastructure <br>
           ⚡ Fun fact: I make music ❤️
         </p>
       </td>
