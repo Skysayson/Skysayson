@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Sky but not <del>really</del> ❤️</h1>
-  <h3 align="center"><u>Wanna be</u> dev </h3>
+  <h3 align="center"><u>FullStack Dev</u> dev </h3>
 </div>
 
 <div align="center">
